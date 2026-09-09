@@ -1,0 +1,32 @@
+inicio
+             P
+
+2 segundos
+             P
+             |
+             C1
+
+4 segundos
+             P
+            / \
+          C1   C2
+
+6 segundos
+             P
+          /  |  \
+        C1   C2  C3
+
+8 segundos
+             P
+         /   /\   \
+        /   /  \   \
+      C1   C2  C3   C4
+
+            ↓
+         sleep(10)
+
+            ↓
+    hijos van terminando
+
+            ↓
+        padre termina

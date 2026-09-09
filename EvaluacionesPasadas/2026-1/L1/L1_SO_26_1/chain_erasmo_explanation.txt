@@ -1,0 +1,17 @@
+P
+|
+C1
+|
+C2
+|
+C3
+|
+C4   ← finishes first
+       ↑
+C3 finishes
+       ↑
+C2 finishes
+       ↑
+C1 finishes
+       ↑
+P finishes
